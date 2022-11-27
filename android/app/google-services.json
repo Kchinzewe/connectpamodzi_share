@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "472833283384",
+    "firebase_url": "https://connectpamodziv03-default-rtdb.firebaseio.com",
+    "project_id": "connectpamodziv03",
+    "storage_bucket": "connectpamodziv03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472833283384:android:478c734e584464bcf8ddcd",
+        "android_client_info": {
+          "package_name": "calm.renegade.twitter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472833283384-sohgad18e10av47iak9lujcttjbmc8hi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSUoD0wnyq26_6eQPxbD99m35LL1jksCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472833283384-sohgad18e10av47iak9lujcttjbmc8hi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "472833283384-19f31elhcd93mkslkfrvptca8pcn6u6l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "calm.renegade.twitter"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472833283384:android:5eee069813b5b1def8ddcd",
+        "android_client_info": {
+          "package_name": "com.robinwarden.fluttershare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472833283384-sohgad18e10av47iak9lujcttjbmc8hi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSUoD0wnyq26_6eQPxbD99m35LL1jksCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472833283384-sohgad18e10av47iak9lujcttjbmc8hi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "472833283384-19f31elhcd93mkslkfrvptca8pcn6u6l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "calm.renegade.twitter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
